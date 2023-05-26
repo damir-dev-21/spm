@@ -1529,11 +1529,13 @@ button{
     }
 
     .footer-list {
-        width: 350px;
+        
+        width: 300px;
         margin-left: 0;
         padding-left: 0;
     }
-
+    .footer-title{
+    }
     .footer-link{
         font-size: 12px;
         padding: 5px;
