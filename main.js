@@ -188,7 +188,7 @@ function send(){
 
     const url = `https://api.telegram.org/bot${tg_token}/sendMessage` // The url to request
     const obj = {
-        chat_id: '-931253901', 
+        chat_id: '-904442020', 
         text: `
             Salom, Yangi Habar! 🙉\nIsmi: ${_res['name']},\nRaqam: +998${_res['phone']},\nKursi: ${_res['courses']},\nRegion: ${selectRegionElement.value}\n
         ` 
